@@ -1,0 +1,16 @@
+h2. Chat Engine Example
+
+This example of chat-engine usage provides a way to quickly try out chat-engine, as well as creates an application for developers to test in.
+
+h2. Installation
+
+To try out chat engine just clone this repos and fire up a server.
+
+<pre><code>
+$ git clone git://github.com/amiel/chat-engine-example.git
+$ cd chat-engine-example
+$ ./script/server
+</code></pre>
+
+To install chat-engine in your own project, see http://github.com/amiel/chat-engine
+
