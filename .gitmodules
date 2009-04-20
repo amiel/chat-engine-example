@@ -1,0 +1,3 @@
+[submodule "vendor/plugins/chat-engine"]
+	path = vendor/plugins/chat-engine
+	url = git://github.com/amiel/chat-engine.git
