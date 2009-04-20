@@ -4,11 +4,13 @@ This example of chat-engine usage provides a way to quickly try out chat-engine,
 
 h2. Installation
 
-To try out chat engine just clone this repos and fire up a server.
+To try out chat engine just clone this repos and fire up a server, and update the chat-engine submodule.
 
 <pre><code>
 $ git clone git://github.com/amiel/chat-engine-example.git
 $ cd chat-engine-example
+$ git submodule init
+$ git submodule update
 $ ./script/server
 </code></pre>
 
